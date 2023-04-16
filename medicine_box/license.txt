@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medicine Box
+* source:	https://sketchfab.com/3d-models/medicine-box-024cb1b771c649cebfa940d894d018c8
+* author:	FertyFly (https://sketchfab.com/FertyFly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medicine Box" (https://sketchfab.com/3d-models/medicine-box-024cb1b771c649cebfa940d894d018c8) by FertyFly (https://sketchfab.com/FertyFly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
